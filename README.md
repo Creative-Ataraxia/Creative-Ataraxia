@@ -18,5 +18,5 @@ please feel free to reach out to me:
 
 have a great rest of the day!
 
-Best regards,
+Best regards,  
 Roy
