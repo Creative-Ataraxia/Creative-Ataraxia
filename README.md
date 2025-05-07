@@ -11,6 +11,7 @@ I'm Roy, a Data & AI engineer with a systems architect's mindset. I focus on des
 
 I have a background in business development, and am a proactive team player, I believe in the power to achieve great things when we all work together! I also a U.S. national, and do not need any work authorizations to work in the U.S., and I'm open to relocation.
 please feel free to [reach out to me](mailto:roy.ma9@gmail.com) at roy.ma9@gmail.com
+
 ---
 
 have a great rest of the day!
