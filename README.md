@@ -16,7 +16,4 @@ please feel free to reach out to me:
 
 ---
 
-have a great rest of the day!
-
-Best regards,  
-Roy
+> data looks disorganized, meaningless, and chaotic in its raw form, but if you're rigorous, humble, and patient, you might just catch a glimpse of something deeply hidden.
