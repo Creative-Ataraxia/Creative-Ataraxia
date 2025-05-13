@@ -15,5 +15,3 @@ please feel free to reach out to me:
 - [Linkedin](https://www.linkedin.com/in/royma/)
 
 ---
-
-> data looks disorganized, meaningless, and chaotic in its raw form, but if you're rigorous, humble, and patient, you might just catch a glimpse of something deeply hidden.
