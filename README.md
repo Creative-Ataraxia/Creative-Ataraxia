@@ -10,7 +10,7 @@ I'm a senior Data & AI engineer who builds data pipelines for analytics & ML sys
   * Re-platformed 70+ legacy feeds, reducing schema-breaks from 52 to 3 per year.
 * ML & LLM in production: SageMaker (batch/real-time), Feature Stores (DynamoDB), Bedrock/OpenAI APIs, vector DBs
   * Served 4 fraud-detection models and RAG systems that deflects 45% of L1 tickets.
-* Ops: GitHub Actions CI/CD, IaC modules, observability (Prometheus / Grafana / Monte Carlo)
+* Ops: GitHub Actions CI/CD, IaC modules, observability (Cloudwatch)
 
 If you need real-time analytics, governed self-service data, or LLM features that solves real business problems, please feel free to reach out to me:
 - roy.ma9@gmail.com
