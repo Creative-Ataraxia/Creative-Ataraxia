@@ -4,7 +4,7 @@
 I'm a senior Data & AI engineer who builds data pipelines for analytics & ML systems. I design and operate cloud-native data platforms at scale that are fast, observable, and reliable. My focus is on solving revenue-bearing problems: data governance, lineage, and cost control features to make sure your data operations are prompt, trustworthy, and cost-efficient. 
 
 ### Experiences:
-* Streaming & ELT at scale: AWS Kinesis Streams, Flink(via KDA), S3/Redshift RA3, Glue & PySpark on EMR, Airflow/Dagster on EKS
+* Streaming & ELT at scale: Kafka, Flink (KDA), S3, Redshift RA3, Glue, PySpark on EMR, Airflow on EKS
   * Delivered 5min freshness on TBs of facts and <5s dashboard queries.
 * Data-contracted warehouses: dbt, Great Expectations, schema-enforced, Terraform/CDK
   * Re-platformed 70+ legacy feeds, reducing schema-breaks from 52 to 3 per year.
