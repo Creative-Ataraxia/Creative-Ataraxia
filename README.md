@@ -6,6 +6,11 @@ I design and operate end-to-end pipelines using AWS-native tools like Kafka (MSK
 
 I enjoy experimenting with popular OSS stacks (currently Airbyte, Dagster, dbt, DuckDB).
 
+Here are some of the architectures I've worked with:
+
+![](img/2-path-realtime-streaming.png)
+![](img/Data Marketplace.png)
+
 I would be happy to explore any senior data engineering roles with your organization, please free feel to reach out to me here:
 - [roy.ma9@gmail.com](mailto:roy.ma9@gmail.com)
 - [Linkedin Profile](https://www.linkedin.com/in/royma/)
