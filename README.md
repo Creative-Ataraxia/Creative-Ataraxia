@@ -16,8 +16,8 @@ Here are some of the architectures I've worked with:
   <img src="img/2-path-realtime-streaming.png" width="45%"/>
 </p>
 
-I would be happy to explore any senior data engineering roles with your organization, please free feel to reach out to me here:
+I would be happy to explore any data engineering roles (junior, senior, EM) and/or ML-adjacent roles involving platform architecture, real-time streaming systems, or ML/LLM Ops/integrations.
 - [roy.ma9@gmail.com](mailto:roy.ma9@gmail.com)
 - [Linkedin Profile](https://www.linkedin.com/in/royma/)
-- I'm fully authorized to work in U.S., no visa sponsorships are needed now or in the future, I'm natively fluent in English, and I'm open to relocation to any parts of the U.S., E.U., or East Asia.
+- I'm fully authorized to work in U.S., so no visa sponsorships are needed now or in the future, I'm natively fluent in English, and I'm open to relocation to any parts of the U.S., E.U., or East Asia.
 ---
