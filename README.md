@@ -9,8 +9,8 @@ I enjoy experimenting with popular OSS stacks (currently Airbyte, Dagster, dbt, 
 Here are some of the architectures I've worked with:
 
 <p align="center">
-  <img src="img/Data Marketplace_v2.png" width="45%" height="110%"/>
-  <img src="img/2-path-realtime-streaming.png" width="45%" height="90%"/>
+  <img src="img/Data Marketplace_v2.png" width="45%"/>
+  <img src="img/2-path-realtime-streaming.png" width="45%"/>
 </p>
 
 I would be happy to explore any senior data engineering roles with your organization, please free feel to reach out to me here:
