@@ -1,10 +1,13 @@
 ### Hi there.
 ---
-I'm Roy, a Data & ML Engineer focused on building scalable, production-grade data platforms for both streaming, analytical, and ML systems.
+Senior Data Engineer with 5+ years of experience. I architect, operate, modernize, and scale end-to-end data pipelines on AWS-native tooling for clients in manufacturing and financial services domains.
 
-I design and operate end-to-end pipelines using AWS-native tools like Kafka (MSK), Flink, Glue, Hudi, Redshift, and Lake Formation. I pay more attention to mission-critical and revenue-impacting works such as real-time streaming, lakehouse architecture, spark job tuning, and access governance.
+I worked on:
+- Real-time ingestion (Kafka/Flink), lakehouse architectures (S3/Athena, Hudi, Redshift Spectrum), platform-level automation (Glue, Lambda, Lake Formation).
+- Streaming pipelines processing 4,000+ factory feeds, and architected self-service analytical layers for thousands of daily queries. 
+My work combines independent ownership with measurable revenue impacts: cost savings, latency reduction, and operational scaling.
 
-I enjoy experimenting with popular OSS stacks (currently Airbyte, Dagster, dbt, DuckDB).
+Outside of work, I enjoy experimenting with popular open-source [data stacks](https://github.com/Creative-Ataraxia/CLV-data-pipeline) (currently Airbyte/Dagster/dbt/DuckDB/Docker) and LLM workflows. I recently placed in the top 3% of an LLM prompt engineering competition [Kaggle Silver Medalist](https://www.kaggle.com/certification/competitions/alexmason11/llms-you-cant-please-them-all).
 
 Here are some of the architectures I've worked with:
 
