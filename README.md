@@ -13,7 +13,7 @@ Here are some of the architectures I've worked with:
 
 <p align="center">
   <img src="img/1. Data Marketplace v3.png" width="45%"/>
-  <img src="img/Data Marketplace_v2.png" width="45%"/>
+  <img src="img/2. Dual Path Realtime Streaming v2.png" width="45%"/>
 </p>
 
 I would be happy to explore any data engineering roles (junior, senior, EM) and/or ML-adjacent roles involving platform architecture, real-time streaming systems, or ML/LLM Ops/integrations.
