@@ -19,7 +19,7 @@ Here are some of the architectures I've worked with:
   <img src="img/2. Dual Path Realtime Streaming v2.png" width="45%"/>
   <br>
   <img src="img/3. Food Costs.png" width="45%"/>
-  <img src="img/4. real-time analytics.png" width="45%"/>
+
 </p>
 
 Open to any data engineering roles (junior, senior, EM) and/or ML-adjacent roles involving platform architecture, real-time streaming systems, or ML/LLM Ops/integrations with your team.
