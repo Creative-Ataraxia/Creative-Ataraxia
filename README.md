@@ -11,7 +11,7 @@ I worked on:
 
 My work combines independent ownership with measurable revenue impacts: cost savings, latency reductions, operational scaling, and tech debt reduction.
 
-Outside of work, I enjoy experimenting with popular open-source [data stacks](https://github.com/Creative-Ataraxia/eonet-realtime-streaming) and LLM workflows. I recently placed in the top 3% of a featured Kaggle LLM prompt engineering competition [Silver Medalist](https://www.kaggle.com/certification/competitions/alexmason11/llms-you-cant-please-them-all).
+Outside of work, I enjoy experimenting with popular open-source [data stacks](https://github.com/Creative-Ataraxia/eonet-realtime-streaming) and LLM workflows. I recently placed in the top 3% of a featured Kaggle LLM competition as a [Silver Medalist](https://www.kaggle.com/certification/competitions/alexmason11/llms-you-cant-please-them-all).
 
 Here are some of the architectures I've worked with:
 
