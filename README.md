@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there, happy to see you!
 ---
 I'm Roy, a U.S. senior Data Engineer with 5+ years of experience. I architect, modernize, and operate batch & streaming data platforms on AWS-native tooling for clients in manufacturing and financial services domains.
 
@@ -12,7 +12,7 @@ I worked with:
 
 My work combines independent ownership with measurable revenue impacts: cost savings, latency reductions, operational scaling, and tech debt reductions.
 
-Outside of work, I enjoy building personal projects such as: [Batch ETL](https://github.com/Creative-Ataraxia/GA4-Analytical-Pipeline), [Streaming Processing](https://github.com/Creative-Ataraxia/eonet-realtime-streaming) and LLM-related coding competitions, recently won  [Silver Medal](https://www.kaggle.com/certification/competitions/alexmason11/llms-you-cant-please-them-all) in a featured Kaggle LLM competition.
+Outside of work, I enjoy building personal projects such as: [Batch ETL](https://github.com/Creative-Ataraxia/GA4-Analytical-Pipeline), [Stream Processing](https://github.com/Creative-Ataraxia/eonet-realtime-streaming) and LLM-related coding competitions, recently won  [Silver Medal](https://www.kaggle.com/certification/competitions/alexmason11/llms-you-cant-please-them-all) in a featured Kaggle LLM competition.
 
 Here are some of the architectures I've worked with:
 
