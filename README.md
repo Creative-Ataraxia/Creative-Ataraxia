@@ -26,8 +26,8 @@ Here are some of the architectures I've worked with:
     <td align="center"><img src="img/Dual Path Realtime Streaming v2.png" width="90%"/></td>
   </tr>
   <tr>
-    <th align="center">Batch ETL</th>
-    <th align="center">Stream Processing</th>
+    <th align="center">Batch ETL for Retail Analytics</th>
+    <th align="center">Stream Processing - NASA's data</th>
   </tr>
   <tr>
     <td align="center"><img src="img/Batch ETL Spark.png" width="90%"/></td>
