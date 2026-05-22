@@ -1,7 +1,7 @@
 ### Hi there, happy to see you! 👋
 ---
 
-I'm a data engineer focused on building reliable data platforms across ingestion, streaming, transformation, orchestration, and lakehouse storage.
+I'm a data engineer building reliable data platforms across ingestion, streaming, transformation, orchestration, and lakehouse storage.
 
 I work with:
 
@@ -37,13 +37,14 @@ Outside of work, I enjoy building personal projects such as [Batch ETL](https://
   </tr>
   <tr>
     <td valign="top">
-      A governed banking data marketplace architecture coordinating historical backfills and CDC ingestion into a Spark/Glue + Hudi/S3 lakehouse, with Airflow orchestration, Lake Formation access controls, and Athena/Redshift Spectrum serving curated self-service data products.
+      A governed banking data marketplace architecture coordinating backfills and CDC ingestion into a Spark/Glue + Hudi/S3 lakehouse, with Airflow orchestration, Lake Formation access controls, and Athena/Redshift Spectrum serving curated self-service data products.
     </td>
     <td valign="top">
-      A dual-path manufacturing data platform where Kafka decouples high-volume shopfloor events, Flink/Aurora powers low-latency operational serving, and Spark/Hudi/S3 supports historical analytics and ML consumption through lakehouse storage.
+      A dual-path manufacturing data platform where Kafka decouples high-volume floor events, Flink/Aurora powers low-latency operational serving, and Spark/Hudi/S3 supports analytics and ML consumption through lakehouse storage.
     </td>
   </tr>
 </table>
+
 ---
 
 ### Contacts
